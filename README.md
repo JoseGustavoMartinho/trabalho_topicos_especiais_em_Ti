@@ -41,5 +41,7 @@ Depois é só abrir o notebook desejado e rodar as células (`Kernel > Restart &
 
 ## Autoria
 
+Jose Gustavo Martinho Araujo de Almeida
+
 Projeto desenvolvido para a disciplina de **Tópicos Especiais em TI**, com exemplos reais
 utilizando datasets públicos do [Kaggle](https://www.kaggle.com/datasets).
